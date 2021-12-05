@@ -1,0 +1,21 @@
+{
+  "name": "50RoundAPS",
+  "author": "Unreal_Unicorn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "src":{
+    "src/modloader.js": "CacheModLoad",
+	"src/gun.js": "CacheModLoad"
+  },
+  "folders": [
+  "files/items",
+	"files/assort/ragfair",
+	"files/locales/en",
+	"files/templates"
+  ],
+  "filenames": [
+      "50RoundAPS"
+
+  ],
+  	"required": []
+}

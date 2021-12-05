@@ -1,0 +1,10 @@
+{
+	"_id": "50RoundAPS",
+	"_tpl": "50RoundAPS",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
