@@ -1,8 +1,8 @@
-# Unreal_Unicorn-50RoundVector45
+# Unreal_Unicorn-50RoundAPS
 
-Glock .45 SGMT 50-round drum magazine
+APS 9x18PM 50-round magazine
 
-A high capacity magazine for the Glock family of pistols that holds up to 50 rounds. Made in Korea and imported by SGM Tactical, it holds more than 50 rounds. The manufacturer does not recommend using it.
+A standard 50-round magazine for Molot-produced APS pistols. It features a side observation slot for faster capacity checking.
 
 Unzip folder and place in the mods folder - server/user/mods
 
